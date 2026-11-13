@@ -1,128 +1,173 @@
+<!-- HEADER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:6366F1&height=200&section=header&text=OZAYA&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Discord%20Developer%20%7C%20QA%20Tester%20%7C%20Bug%20Hunter&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
+
 # Salut, moi c'est Ozaya 👋
 
-Développeur **Discord / Bun / TypeScript**, autodidacte et passionné par le développement logiciel, la qualité et l'automatisation.
+### Discord Developer · QA Tester · Bug Hunter
 
-Je conçois des **bots Discord et des applications web**, en travaillant aussi bien sur les fonctionnalités back-end que sur les interfaces et l'expérience utilisateur.
+🇧🇪 Belgique · 🌍 Ouvert aux opportunités 100 % remote
 
-Je m'intéresse particulièrement à la **qualité du code, aux tests, à la détection de bugs et à la fiabilité des applications**.
+[![GitHub](https://img.shields.io/badge/GitHub-Oz4ya-181717?style=for-the-badge&logo=github)](https://github.com/Oz4ya)
+[![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ozaya17@proton.me)
 
-📍 Basé en **Belgique** 🇧🇪  
-🌍 Ouvert aux opportunités professionnelles **100 % remote**.
-
----
-
-## 💼 Ce que je peux apporter
-
-| Domaine | Compétences |
-|---|---|
-| 🤖 **Développement Discord** | Bots personnalisés, commandes, modération, automatisation et gestion des serveurs |
-| ⚙️ **Back-end** | Bun, TypeScript, logique métier, API et intégration de bases de données |
-| 🌐 **Développement web** | Interfaces React / Next.js et dashboards connectés à des services back-end |
-| 🧪 **QA & Bug Hunting** | Tests fonctionnels, reproduction de bugs, analyse des comportements inattendus et validation des correctifs |
-| 🛡️ **Modération** | Automatisation de la modération, gestion des avertissements et outils de protection |
-| 🎧 **Analyse audio** | Évaluation de la qualité sonore, détection d'anomalies et écoute critique avec Pro Tools et FL Studio |
+</div>
 
 ---
 
-## 🔭 En ce moment
+## 👨‍💻 À propos de moi
 
-### 🚀 Synthara — Bot Discord & Dashboard
+Développeur autodidacte spécialisé dans la création de **bots Discord et d'applications web** avec JavaScript, TypeScript et Bun.
 
-Mon projet principal : un écosystème Discord composé d'un bot et d'un dashboard web.
+J'aime concevoir des fonctionnalités utiles, améliorer les systèmes existants et résoudre des problèmes techniques.
 
-**Technologies utilisées :**
-- Bun et TypeScript
-- React / Next.js
-- PostgreSQL
-- Intégration avec l'API Discord
+Je m'intéresse également au **QA Testing**, au Bug Hunting et à l'analyse de la qualité audio.
 
-**Travaux réalisés et améliorations :**
-- Système de modération automatisée (AutoMod)
-- Gestion des avertissements et des configurations
-- Gestion des shards
-- Optimisation du cache et de son invalidation
-- Amélioration des embeds et des interactions Discord
-- Tests automatisés et correction de bugs
-- Dashboard web et interface de suivi
-
-🔒 Les dépôts du projet sont actuellement privés.
+- 🤖 Développement de bots Discord et automatisation
+- ⚡ JavaScript, TypeScript et Bun
+- 🌐 Interfaces web avec React et Next.js
+- 🧪 Tests fonctionnels, reproduction et correction de bugs
+- 🎧 Analyse audio avec Pro Tools et FL Studio
 
 ---
 
-## 🧪 Qualité & tests logiciels
+## 🚀 Projet principal
 
-La qualité fait partie intégrante de ma manière de développer.
+<div align="center">
 
-Je travaille notamment sur :
-- La reproduction de bugs et l'identification de leurs causes
-- Les tests fonctionnels et la validation des fonctionnalités
-- La détection des régressions après une modification
-- La vérification des interactions entre plusieurs systèmes
-- La fiabilité des commandes, événements et automatisations
-- L'amélioration des retours d'erreur et du comportement des applications
+### ✨ Synthara
 
----
+**Un projet Discord composé d'un bot et d'un dashboard web.**
 
-## 🎧 Audio & création musicale
+</div>
 
-Je m'intéresse également à l'analyse et à la qualité audio.
+Je développe Synthara avec une architecture modulaire et une attention particulière à la fiabilité des fonctionnalités.
 
-- Écoute critique et évaluation sonore
-- Identification des sons anormaux, décalés ou défectueux
-- Analyse des basses, instruments, percussions et sons d'arrière-plan
-- Utilisation de **Pro Tools** et **FL Studio**
+**Fonctionnalités et travaux :**
+
+- 🛡️ Systèmes de modération et automodération
+- ⚙️ Gestion des commandes et événements Discord
+- 🧩 Architecture modulaire
+- 🧪 Tests automatisés avec Bun
+- 🔄 Correction de bugs et amélioration continue
+- 📊 Dashboard web pour la gestion et le suivi
+
+<sub>Les dépôts du projet sont privés pour le moment.</sub>
 
 ---
 
 ## 🛠️ Stack technique
 
-### 💻 Langages & runtime
+### 💻 Langages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-### 🤖 Discord & back-end
+### ⚡ Back-end & Discord
 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### 🌐 Front-end
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### 🧪 Tests & qualité
 
-![Bun Test](https://img.shields.io/badge/Bun_Test-000000?style=for-the-badge&logo=bun&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Bun_Test-000000?style=for-the-badge&logo=bun&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+### 🔧 Outils
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ### 🎧 Audio
 
-![Pro Tools](https://img.shields.io/badge/Pro_Tools-7ACBEE?style=for-the-badge&logo=avid&logoColor=black)
-![FL Studio](https://img.shields.io/badge/FL_Studio-FF8C00?style=for-the-badge&logo=image-line&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Pro_Tools-7ACB10?style=for-the-badge&logo=avid&logoColor=black" />
+<img src="https://img.shields.io/badge/FL_Studio-FF8C00?style=for-the-badge&logo=image-line&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub
+## 🧪 QA Testing & Bug Hunting
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oz4ya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+La qualité fait partie intégrante de ma façon de développer.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oz4ya&layout=compact&theme=tokyonight&hide_border=true)
+Je porte une attention particulière à la détection des problèmes et à la vérification des correctifs.
+
+- 🔍 Identification des comportements anormaux
+- 🐛 Reproduction et isolation des bugs
+- 🧪 Tests de fonctionnalités
+- 🔧 Vérification des corrections
+- 📋 Amélioration de la fiabilité des applications
+
+---
+
+## 🎧 Audio & Sound Quality
+
+Passionné par la production et l'analyse audio, j'utilise **Pro Tools** et **FL Studio**.
+
+Mon écoute analytique me permet de distinguer les différentes couches sonores et de repérer les anomalies :
+
+- Basses et fréquences
+- Instruments et percussions
+- Sons d'arrière-plan
+- Décalages et imperfections audio
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oz4ya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=818CF8&icon_color=818CF8&text_color=E2E8F0&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oz4ya&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=818CF8&text_color=E2E8F0" />
+
+<img src="https://streak-stats.demolab.com?user=Oz4ya&theme=tokyonight&hide_border=true&background=09090F&ring=818CF8&fire=6366F1&currStreakLabel=818CF8" />
+
+</div>
 
 ---
 
 ## 📫 Me contacter
 
-Ouvert aux opportunités en développement Discord, QA Testing, Bug Hunting et évaluation de la qualité audio.
+Tu souhaites discuter d'un projet, d'une collaboration ou d'une opportunité professionnelle ?
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Oz4ya-181717?style=for-the-badge&logo=github)](https://github.com/Oz4ya)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ozaya17@proton.me)
+[![Email](https://img.shields.io/badge/Proton_Mail-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ozaya17@proton.me)
+
+**ozaya17@proton.me**
+
+</div>
 
 ---
 
-*Construire, tester, améliorer. Toujours apprendre et progresser.* 🚀
+<div align="center">
+
+<sub>Conçu avec passion par Ozaya · Belgique 🇧🇪</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:09090F&height=100&section=footer" width="100%" />
+
+</div>
