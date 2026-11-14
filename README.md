@@ -1,104 +1,111 @@
- 
-<div align="center">
+# Salut, moi c'est Ozaya 👋
 
-# Ozaya
+### Développeur Discord · Testeur QA · Bug Hunter · Passionné d'audio
 
-### Discord Developer · QA Tester · Bug Hunter · Audio Enthusiast
+Je développe des outils utiles, j'améliore les expériences numériques et je cherche à détecter les problèmes avant qu'ils n'atteignent les utilisateurs.
 
-Building reliable Discord experiences, testing software, and exploring sound.
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit%20my%20website-8B5CF6?style=for-the-badge)](https://portfolio-ozaya.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Oz4ya-181717?style=for-the-badge&logo=github)](https://github.com/Oz4ya)
-[![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ozaya17@proton.me)
-
-</div>
+📍 Belgique 🇧🇪  
+📧 **[ozaya17@proton.me](mailto:ozaya17@proton.me)**  
+🌐 **[Voir mon portfolio](https://portfolio-ozaya.vercel.app)**
 
 ---
 
-## About me
+## 👨‍💻 À propos de moi
 
-I'm a self-taught developer from Belgium, interested in building useful software, improving user experiences, and finding issues before they reach production.
+Je suis un développeur autodidacte basé en Belgique. Je m'intéresse particulièrement au développement logiciel, à l'amélioration de l'expérience utilisateur et à l'assurance qualité.
 
-I focus on:
+Mes principaux domaines d'intérêt :
 
-- Discord bot development and automation.
-- Software testing, bug reproduction, and quality assurance.
-- Identifying unexpected behavior and improving reliability.
-- Audio analysis and music production.
+- Développement de bots Discord et automatisation.
+- Tests logiciels, reproduction de bugs et assurance qualité.
+- Détection de comportements inattendus et amélioration de la fiabilité.
+- Analyse audio et production musicale.
 
-I'm open to fully remote opportunities and collaborations.
+Je suis ouvert aux opportunités professionnelles et aux collaborations **entièrement à distance**.
 
-## Tech stack
+## 🛠️ Compétences et outils
 
-**Development**
+### Développement
+- Développement de bots Discord.
+- JavaScript / TypeScript.
+- Bun.
+- React / Next.js.
+- PostgreSQL.
+- Git et GitHub.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Tests et qualité logicielle
+- Tests fonctionnels.
+- Reproduction et analyse de bugs.
+- Tests de cas limites (*edge cases*).
+- Vérification des corrections.
+- Analyse des comportements inattendus.
 
-**Tools**
+### Audio et production musicale
+- Pro Tools.
+- FL Studio.
+- Écoute analytique et identification d'anomalies sonores.
+- Analyse des différentes couches audio : basses, instruments, percussions et sons d'arrière-plan.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Pro Tools](https://img.shields.io/badge/Pro%20Tools-7B2CBF?style=flat-square)
-![FL Studio](https://img.shields.io/badge/FL%20Studio-FF9900?style=flat-square)
-
-## Featured project
+## 🚀 Projet à la une
 
 ### Synthara
 
-A Discord bot and web dashboard project focused on server management, automation, and moderation.
+**Synthara** est un projet de bot Discord accompagné d'un tableau de bord web. Il est conçu pour faciliter la gestion, l'automatisation et la modération des serveurs Discord.
 
-- Discord bot development.
-- Moderation and automod features.
-- Dashboard and status reporting.
-- Testing and continuous improvements.
+Quelques aspects du projet :
 
-*Source repositories are private.*
+- Développement et amélioration du bot Discord.
+- Fonctionnalités de modération et d'AutoMod.
+- Tableau de bord web.
+- Suivi de l'état du service et rapports de statut.
+- Tests automatisés et amélioration continue.
 
-## QA & Bug Hunting
+*Les dépôts contenant le code source sont privés.*
 
-I enjoy investigating software behavior and identifying issues through structured testing.
+## 🔍 Tests QA et Bug Hunting
 
-- Reproducing bugs consistently.
-- Testing features and edge cases.
-- Identifying unexpected behavior.
-- Checking whether fixes resolve the original issue.
-- Improving reliability and user experience.
+J'aime comprendre le fonctionnement des logiciels, identifier leurs défauts et vérifier leur fiabilité grâce à des tests méthodiques.
 
-## Audio
+Mes activités comprennent :
 
-Music production has developed my attention to detail and analytical listening.
+- Reproduire un bug de manière cohérente.
+- Tester les fonctionnalités et les cas limites.
+- Identifier les comportements inattendus.
+- Vérifier qu'une correction résout réellement le problème initial.
+- Repérer les régressions après une modification.
+- Contribuer à améliorer la fiabilité et l'expérience utilisateur.
 
-I use **Pro Tools** and **FL Studio**, with an interest in identifying audio inconsistencies, timing issues, and problems across different sound layers.
+## 🎧 Audio et production musicale
 
-## Let's connect
+La production musicale m'a permis de développer une écoute attentive et analytique.
 
-I'm interested in remote opportunities involving:
+J'utilise **Pro Tools** et **FL Studio** et je porte une attention particulière :
 
-- Discord development.
-- QA testing and bug hunting.
-- Software evaluation.
-- Audio QA and analysis.
+- Aux incohérences sonores.
+- Aux problèmes de synchronisation et de rythme.
+- Aux basses, instruments et percussions.
+- Aux sons d'arrière-plan et aux détails difficiles à remarquer.
+- Aux anomalies présentes dans les différentes couches d'un mix.
 
-**Portfolio:** https://portfolio-ozaya.vercel.app
+Je m'intéresse notamment aux activités de test et de contrôle qualité audio (*Audio QA*).
 
-**Email:** ozaya17@proton.me
+## 🤝 Me contacter
 
-<div align="center">
+Je suis intéressé par les opportunités à distance dans les domaines suivants :
 
-*Always learning. Always improving.*
+- Développement Discord.
+- Tests QA et recherche de bugs.
+- Évaluation de logiciels.
+- Analyse et contrôle qualité audio.
 
-</div>
+🌐 **Portfolio :** https://portfolio-ozaya.vercel.app  
+📧 **E-mail :** ozaya17@proton.me  
+💻 **GitHub :** https://github.com/Oz4ya
 
-<div align="center">
+---
 
-<sub>Conçu avec passion par Ozaya · Belgique 🇧🇪</sub>
+*Toujours apprendre. Toujours progresser.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:09090F&height=100&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <i>Conçu avec passion par Ozaya · Belgique 🇧🇪</i>
+</p>
