@@ -6,7 +6,7 @@ Je développe des outils utiles, j'améliore les expériences numériques et je 
 
 📍 Belgique 🇧🇪  
 📧 **[ozaya17@proton.me](mailto:ozaya17@proton.me)**  
-🌐 **[Voir mon portfolio](https://portfolio-ozaya.vercel.app)**
+🌐 **[Voir mon portfolio](https://Oz4ya.github.io)**
 
 ---
 
@@ -98,7 +98,7 @@ Je suis intéressé par les opportunités à distance dans les domaines suivants
 - Évaluation de logiciels.
 - Analyse et contrôle qualité audio.
 
-🌐 **Portfolio :** https://portfolio-ozaya.vercel.app  
+🌐 **Portfolio :** https://Oz4ya.github.io  
 📧 **E-mail :** ozaya17@proton.me  
 💻 **GitHub :** https://github.com/Oz4ya
 
